@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pigga/static/css/main.9f0731fd.css",
+    "main.js": "/pigga/static/js/main.9810af59.js",
+    "static/media/section.jpg": "/pigga/static/media/section.06d0d848e0cda3350027.jpg",
+    "static/media/header.jpg": "/pigga/static/media/header.0c5a950d8d3ec80ade07.jpg",
+    "index.html": "/pigga/index.html",
+    "main.9f0731fd.css.map": "/pigga/static/css/main.9f0731fd.css.map",
+    "main.9810af59.js.map": "/pigga/static/js/main.9810af59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f0731fd.css",
+    "static/js/main.9810af59.js"
+  ]
+}
